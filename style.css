@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');
+
+html {
+    /* background: rgb(120, 118, 118); */
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+    margin-top: 5px;
+}
+
+.main-div {
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 30px;
+}
+
+.component {
+    background-color: #cdd7ff;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 5px;
+}
+.category {
+    background-size: cover;
+    height: 290px;
+    width: 300px;
+}
+
+.text {
+    font-family: 'Outfit', sans-serif;
+    text-transform: capitalize;
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+/* 
+.becquerel {
+    background-image: url("becquerel.jpeg");
+    background-size: cover;
+    height: 290px;
+    width: 300px;
+    border:5px solid white;
+    color: green;
+}
+
+.curie {
+    background-image: url("curie.jpg");
+    background-size: cover;
+    height: 290px;
+    width: 300px;
+    border:5px solid white;
+    color: green;
+}
+
+.rutherford {
+    background-image: url("rutherford.jpeg");
+    background-size: cover;
+    height: 290px;
+    width: 300px;
+    border:5px solid white;
+    color: green;
+}
+
+.geiger {
+    background-image: url("geiger.jpeg");
+    background-size: cover;
+    height: 290px;
+    width: 300px;
+    border:5px solid white;
+    color: green;
+}
+
+.manhattan-project {
+    background-image: url("manhattan-project.jpeg");
+    background-size: cover;
+    height: 290px;
+    width: 300px;
+    border:5px solid white;
+    color: green;
+}
+
+.atomic-bomb {
+    background-image: url("atomic-bomb.jpeg");
+    background-size: cover;
+    height: 290px;
+    width: 300px;
+    border:5px solid white;
+    color: green;
+} */
+
+.images {
+    display: flex;
+    justify-content: space-evenly;
+}

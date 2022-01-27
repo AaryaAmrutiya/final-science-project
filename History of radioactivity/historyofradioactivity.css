@@ -1,0 +1,10 @@
+h1 {
+    color: red;
+}
+
+body {
+    background-image: url("nuclear-medicine-radioisotope-imaging.png");
+    background-size: cover; /* Set the image to cover all the div */
+  background-repeat: no-repeat; /* Commonly used for that situation */
+  background-attachment: fixed; /* the image will stay with you while scrolling same as position: fixed*/
+}

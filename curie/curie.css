@@ -1,0 +1,12 @@
+body {
+    background-image: url("800px-Nobel_Pierre_et_Marie_Curie_1.jpeg");
+    background-size: cover; /* Set the image to cover all the div */
+  background-repeat: no-repeat; /* Commonly used for that situation */
+  background-attachment: fixed; /* the image will stay with you while scrolling same as position: fixed*/
+}
+
+h1 {
+    position: fixed;
+  	bottom: 0;
+      color: purple;
+}

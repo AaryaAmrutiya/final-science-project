@@ -1,0 +1,18 @@
+.top-align {
+    vertical-align: top;
+    }
+    ​
+    .center-align {
+    vertical-align: middle;
+    }
+
+h1 {
+    font-size: 24px;
+}
+
+body {
+    background-image: url("Becquerel_plate.jpeg");
+background-position: top;
+background-repeat: no-repeat;
+background-size: cover;
+}
